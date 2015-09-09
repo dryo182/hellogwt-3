@@ -1,0 +1,1 @@
+Simple web application based on Spring and GWT. Uses GWT-RPC services.
